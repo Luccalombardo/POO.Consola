@@ -22,6 +22,6 @@ namespace POO.Consola
         {
             Console.WriteLine($"Hola, soy {Name} y tengo {Age} ");
         }
-
+        
     }
 }
