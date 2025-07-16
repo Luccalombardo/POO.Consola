@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO2-Campos", "POO2-Campos"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamposPoo.Consola", "CamposPoo.Consola\CamposPoo.Consola.csproj", "{00772D89-DA32-47B2-936B-2B6ADA09893A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO3-Campos", "POO3-Campos", "{C9DCCD68-5AD9-4C1C-8E61-4B0E6631CC0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamposPoo2.Consola", "CamposPoo2.Consola\CamposPoo2.Consola.csproj", "{3DEF4AFD-0CB1-47D8-B12F-6E7159501B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{00772D89-DA32-47B2-936B-2B6ADA09893A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00772D89-DA32-47B2-936B-2B6ADA09893A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00772D89-DA32-47B2-936B-2B6ADA09893A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEF4AFD-0CB1-47D8-B12F-6E7159501B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEF4AFD-0CB1-47D8-B12F-6E7159501B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEF4AFD-0CB1-47D8-B12F-6E7159501B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEF4AFD-0CB1-47D8-B12F-6E7159501B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{52ED406B-C6FE-405F-8B38-C3C5D9969A16} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{00772D89-DA32-47B2-936B-2B6ADA09893A} = {51E43081-AA8A-4157-B225-9A4C334B293B}
+		{3DEF4AFD-0CB1-47D8-B12F-6E7159501B01} = {C9DCCD68-5AD9-4C1C-8E61-4B0E6631CC0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {543779AB-6AE0-4A83-A5E4-DD1692146109}
